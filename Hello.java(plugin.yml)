@@ -1,0 +1,32 @@
+name: Hello
+main: me.sfl123.Hello.Hello
+version: 1.0.0
+description: >
+            A Plugin with a few fun features for your server.
+load: STARTUP
+author: Galacticcreeper
+commands:
+  Hello:
+    description: >
+      Sends A Message to the server saying Hello to everyone or to someone specified!
+  Hi:
+    description: >
+      Sends a message saying Hi to everyone or to someone specified
+  Punch:
+    description: >
+      Punches a player IN THE FACE!
+  Slap:
+    description: >
+      Slaps a player!
+  RageQuit:
+    description: >
+      RageQuits the server!
+  Facepalm:
+    description: >
+      facepalms!
+  Facedesk:
+    description: >
+      facedesks!
+  /Hello:
+    description: >
+      Shows all commands!
